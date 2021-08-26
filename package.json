@@ -1,0 +1,25 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "(Restaurant project for The Odin Project)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GhoulieDev/restaurant.git"
+  },
+  "author": "Ghoulie - Mark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GhoulieDev/restaurant/issues"
+  },
+  "homepage": "https://github.com/GhoulieDev/restaurant#readme",
+  "devDependencies": {
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  }
+}
