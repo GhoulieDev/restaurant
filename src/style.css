@@ -1,0 +1,25 @@
+#nav-bar{
+    background-color: rgba(0, 0, 0, 0.65);
+    width: 100vw;
+    height: 100px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1{
+    align-self: center;
+    font-size: 35px;
+    margin-left: 120px;
+}
+
+#nav-links{
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    margin-right: 105px;
+}
+
+#nav-links p{
+    padding: 0 15px;
+}
